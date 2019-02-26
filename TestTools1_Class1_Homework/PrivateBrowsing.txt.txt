@@ -1,0 +1,4 @@
+Private Browsing Mode does not save cookies or history.
+
+You can use this mode so that companies can not track your activities and use it for their own purposes.
+You can also use it as a tester to demontrate logging in as a new or different user. You can also test how your program behaves in this mode.
