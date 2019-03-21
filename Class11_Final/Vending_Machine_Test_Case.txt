@@ -1,0 +1,7 @@
+1. Identify price and number of item.
+2. Identify acceptible currency (IE: US dollars, 25 cents, etc)
+3. Insert amount / or more than the price of the item.
+4. Press the number of the item.
+5. Wait for item to be dropped into tray.
+6. Take item from tray.
+7. Take change if amount inserted is more than item vended.
